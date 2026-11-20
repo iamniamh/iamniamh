@@ -1,7 +1,8 @@
 ## Hello 👋 
-my name is Niamh and I live in the UK. 😃 <br/>
-I am a Maths graduate and currently I am learning web development. 📕 <br/>
-I have made this GitHub to showcase projects I have built and I aim to get a job within the tech industry someday. 🏢
+<br/>
+😃 My name is Niamh and I live in the UK.  <br/> <br/>
+📕 I am a Maths graduate and I am currently learning web development. <br/> <br/>
+🏢 I have made this GitHub to showcase projects I have built and I aim to get a job within the tech industry someday. 
 
 <!--
 **iamniamh/iamniamh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
