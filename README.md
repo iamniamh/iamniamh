@@ -6,7 +6,7 @@ Hello 👋 My name is Niamh
 ------------------
 
 I am a Maths graduate from the University of Birmingham. 📕 <br/>
-I have been learning to code in the past year and aim to someday get a job within the tech industry. 🏢 <br/>
+In the past few months I have been learning to code and aim to someday get a job within the tech industry. 🏢 <br/>
 I have made this GitHub to showcase projects I have built along the way. 🔍
 
 * 🌍  I'm based in London, United Kingdom
